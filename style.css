@@ -551,7 +551,7 @@ section {
   min-height: 100vh;    
   display: flex;
   align-items: center;
-  background: url(/images/pexels.jpg) no-repeat center center/cover;
+  background: url(/images/pexels.jpg) no-repeat ;
   background-size: cover;
   background-position: center;
 }
